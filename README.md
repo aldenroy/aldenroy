@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - I’m currently working as an: __IT Intern at AVANGRID Renewables__ 
 - Currently looking for: __Summer 2024 Internship__
-- Fun fact: I've broken 15 in the 5000m.
+- Fun fact: I've broken 15 minutes in the 5000m.
 - Pronouns: He/Him
 
 <br/>
