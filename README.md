@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 # Hello 👋, I'm Alden Roy!
 
-### Software/DevOps/Cloud Engineer
+### IT Intern
 
-- 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
+<!-- - 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
 - 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
 - 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
 - 🧧 Chinese name: __畢少謙__
-- ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
+- ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis -->
 
 <br/>
 
@@ -29,18 +29,18 @@ Here are some ideas to get you started:
     <tr>
         <th>My Email</th>
         <th>My LinkedIn</th>
-        <th>My CV</th>
+        <!-- <th>My CV</th> -->
     </tr>
     <tr>
         <td>
-            <a href="alden.j.roy@gmail.com"><img src=""/></a>
+            <p>alden.j.roy@gmail.com</p>
         </td>
         <td>
             <a href="https://www.linkedin.com/in/aldenroy/">🌐</a>
         </td>
-        <td>
+        <!-- <td>
             <a href="https://colinbut.github.io/online-resume">📃</a>
-        </td>
+        </td> -->
     </tr>
 </table>
 
