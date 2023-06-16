@@ -1,5 +1,5 @@
 <!--
-**colinbut/colinbut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aldenroy/aldenroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 -->
 # Hello 👋, I'm Alden Roy!
 
-### IT Intern
-
-<!-- - 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
-- 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
-- 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
-- 🧧 Chinese name: __畢少謙__
-- ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis -->
+- I’m currently working as an: __IT Intern at AVANGRID Renewables__ 
+- Currently looking for: __Summer 2024 Internship__
+- Fun fact: I've broken 15 in the 5000m.
+- Pronouns: He/Him
 
 <br/>
 
@@ -47,8 +44,8 @@ Here are some ideas to get you started:
 
 
 ### Contact me:
-
-<a href="alden.j.roy@gmail.com"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fgmail-logo%2F&psig=AOvVaw1IRDkwETRTT4QrM0KW0TKS&ust=1687016134231000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCj-vyOyP8CFQAAAAAdAAAAABAE" width="40" height="40"/></a>
+<!-- 
+<a href="alden.j.roy@gmail.com"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fgmail-logo%2F&psig=AOvVaw1IRDkwETRTT4QrM0KW0TKS&ust=1687016134231000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCj-vyOyP8CFQAAAAAdAAAAABAE" width="40" height="40"/></a> -->
 <a href="https://www.linkedin.com/in/aldenroy/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 
