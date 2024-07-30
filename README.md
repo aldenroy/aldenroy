@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - Education: __Computer Science major double minoring in Mathematics and Data Analaysis at Western Oregon University__ 
 - Over the Summer I worked as an: __IT Intern at AVANGRID Renewables__ 
-- Currently looking for: __Summer 2024 Internship__
+- Currently looking for: __2025 New Grad/Software Engineer I Role__
 - Fun fact: I've broken 15 minutes in the 5000m.
 - About me: I'm a Junior at WOU. In January 2024 I transferred here from Oregon State, just down the road. I'm currently running D2 track and cross country here! My languages of choice are Python and Javascript. During Summer 2023, I was an intern at Avangrid Renewables, where I used Django and Angular to revamp a employee dashboard. I'm currently interested in backend and API development!
 
